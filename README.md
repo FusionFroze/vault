@@ -34,9 +34,9 @@ $ vault add
 
 You will need to enter the vault's master password to proceed. After that the following input interface will open -
 
-```shell
+```
 $ vault add
-✔ Enter vault\'s master password: ******
+✔ Enter vault's master password: ******
 ✔ Identifier of the new password/secret: new_password
 ✔ Password/Secret: ************
 Your password has been added to the vault
