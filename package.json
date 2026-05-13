@@ -1,7 +1,7 @@
 {
   "name": "@fusionfroze/vault",
   "version": "1.0.0",
-  "description": "save and organize all your passwords/secrets securely and locally",
+  "description": "encrypt and manage your secrets from the terminal",
   "license": "MIT",
   "author": "FusionFroze",
   "type": "module",
@@ -19,5 +19,13 @@
     "commander": "^14.0.3",
     "conf": "^15.1.0",
     "yocto-spinner": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FusionFroze/vault"
+  },
+  "homepage": "https://github.com/FusionFroze/vault/#readme",
+  "bugs": {
+    "url": "https://github.com/FusionFroze/vault/issues"
   }
 }
