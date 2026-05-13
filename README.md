@@ -1,6 +1,6 @@
 # Vault
 
-Store important things like passwords, API keys, secrets etc. securely in your machine.
+Encrypt and manage your secrets from the terminal.
 
 ## Installation
 
